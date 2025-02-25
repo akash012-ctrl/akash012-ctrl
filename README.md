@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Knowledge of Data Structures and Algorithms<br>• Proficient in C++, JavaScript, HTML, CSS<br>• Experienced in Node.js, React.js, Express.js, MongoDB<br>• Skilled in Problem Solving<br>• Ability to create Graphic Designs <br>• Looking for Internship and Fulltime Opportunities
+• Knowledge of Data Structures and Algorithms<br>• Proficient in C++, JavaScript, HTML, CSS<br>• Experienced in NodeJS, ReactJS, NextJS ExpressJS, MongoDB<br>• Skilled in Problem Solving<br>• Ability to create Graphic Designs <br>• Looking for Internship and Fulltime Opportunities
 
 
 ## 🌐 Socials:
